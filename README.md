@@ -28,19 +28,18 @@ Make sure you have [Node.js](https://nodejs.org/) installed and a [MongoDB URI](
 npm install
 
 # Create a .env file
-touch .env
-MONGO_URI=your_mongodb_connection_string_here
-PORT=5000
+### touch .env
+### MONGO_URI=your_mongodb_connection_string_here PORT=5000
 
 # Run dev
-npm run dev
-or: node index.js
+### npm run dev
+### or: node index.js
 
 # Client
-cd client
+### cd client
 
 ## Install dependencies
-npm install
+### npm install
 
 ## Start the Vite development server
-npm run dev
+### npm run dev
