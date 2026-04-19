@@ -23,23 +23,3 @@ Follow these steps to set up the project locally on your machine.
 
 ### Prerequisites
 Make sure you have [Node.js](https://nodejs.org/) installed and a [MongoDB URI](https://www.mongodb.com/) (either local or MongoDB Atlas).
-
-# Install dependencies
-npm install
-
-# Create a .env file
-### touch .env
-### MONGO_URI=your_mongodb_connection_string_here PORT=5000
-
-# Run dev
-### npm run dev
-### or: node index.js
-
-# Client
-### cd client
-
-## Install dependencies
-### npm install
-
-## Start the Vite development server
-### npm run dev
